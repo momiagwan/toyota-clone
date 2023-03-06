@@ -1,0 +1,233 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.naci {
+
+    margin-left: 33% !important;
+
+
+}
+
+.navbar {
+    position: sticky !important;
+}
+
+.nav-link {
+
+    font-weight: bold !important;
+}
+
+.one>button :hover {
+    color: red !important;
+    border-color: red !important;
+}
+
+.two>button:hover {
+    color: red !important;
+    border-color: red !important;
+}
+
+.three>button:hover {
+    color: red !important;
+    border-color: red !important;
+}
+
+.icon:hover {
+    color: red !important;
+}
+
+/* navbar complete */
+
+
+
+
+
+.firstsection {
+
+
+    overflow-x: hidden;
+
+
+}
+
+.backgroundimgheo {
+    position: relative;
+}
+
+.BAC2 {
+
+    position: absolute;
+    bottom: 10%;
+
+}
+
+.button1 {
+    color: white;
+    background-color: red;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+}
+
+.backgroundimgheo>img {
+
+    filter: brightness(1);
+}
+
+.backgroundimgheo>img:hover {
+    filter: brightness(0.3);
+}
+
+
+
+.noti {
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+}
+
+.noti1 {
+
+    margin-left: 30%;
+
+
+}
+
+.noti1>a:hover {
+    color: red !important;
+    text-decoration: underline !important;
+}
+
+
+/*  hero end */
+
+.bac3 {
+    top: 345px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: -webkit-linear-gradient(top, transparent, #000);
+    z-index: 1000;
+}
+
+
+.new {
+
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstt>img:hover {
+    filter: brightness(0.8);
+}
+
+.firs {
+    background-color: whitesmoke !important;
+    margin-left: 2%;
+
+
+}
+
+.card {
+    border: none !important;
+    margin: 5% 5% 5% 5%;
+}
+
+.card>img:hover {
+    filter: brightness(0.5);
+}
+
+
+.notic {
+    background-color: whitesmoke;
+    height: 50vh;
+    width: 100vw;
+}
+
+
+
+.texting {
+
+    width: 50%;
+
+    margin-left: 5%;
+
+
+}
+
+.texting>p>a {
+    text-decoration: none;
+    color: #000;
+}
+
+.texting>p>a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* foooter */
+
+
+
+.foot {
+
+    background-color: #212121;
+
+    height: 30vh;
+    width: 100vw;
+    color: white;
+
+}
+
+
+
+.one>a {
+    text-decoration: none;
+    color: white;
+}
+
+.one>a:hover {
+    color: red;
+}
+
+.twooo>a {
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.twooo>a:hover {
+    color: red !important;
+}
+
+.yess {
+    background-color: #000;
+    color: white !important;
+
+}
+
+
+.thiss>a {
+    text-decoration: none;
+    color: white;
+}
+
+.thiss>a:hover {
+    color: red;
+}
